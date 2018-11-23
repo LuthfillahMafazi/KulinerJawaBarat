@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Kuliner Jawa Barat</string>
+    <string-array name="kulinerJawaBarat">
+        <item>Lotek</item>
+        <item>Karedok</item>
+        <item>Empal Gentong</item>
+        <item>Batagor</item>
+        <item>Peuyeum</item>
+        <item>Cireng</item>
+        <item>Tahu Gejrot</item>
+        <item>Asinan Bogor</item>
+    </string-array>
+
+    <string-array name="isiKuliner">
+        <item> lotek ini adalah makanan khas Jawa Barat yang tampilannya sangat mirip dengan gado-gado. Makanan ini berisi beberapa jenis sayuran yang direbus dan disiram dengan bumbu kacang.
+
+Bedanya, bumbu kacang untuk lotek ini kadang-kadang menggunakan terasi, sedangkan gado-gado tidak memakai terasi. Kadang-kadang penjual lotek juga menambahkan bakwan, ketupat, telur, dan juga kerupuk. Tingkat kepedasan lotek juga bisa disesuaikan dengan selera kita, lho.</item>
+        <item>Satu lagi makanan dari Jawa Barat yang mirip dengan pecel, yakni karedok. sayur-sayuran yang dipakai untuk membuat karedok tidak direbus alias mentah. Jadi, karedok ini lebih pantas disebut sebagai salad tradisional. Sayuran pelengkap karedok antara lain adalah tauge, mentimun, kacang panjang, kol, terong, dan daun kemangi.
+
+Bumbu kacang yang melengkapi karedok ini lebih mirip dengan bumbu pecel karena bahan-bahanya menggunakan cabe merah, bawang putih, kencur, air asam, gula merah, garam, kacang tanah, dan terasi. Anda bisa menyantap karedok secara langsung atau dengan sepiring nasi putih hangat.</item>
+        <item>Empal Gentong. Ya, mungkin sebagian dari Anda tidak tahu bahwa empal gentong adalah makanan yang berasal dari Cirebon. Makanan ini terdiri dari daging sapi yang dimasak dalam gentong khusus menggunakan kayu bakar. Jadi, cita rasa dan aroma empal gentong ini begitu kuat dan sedap.
+
+       Sekilas tampilan empal gentong nampak sama seperti gulai, apalagi bahan-bahan yang dimasukkan juga sama dengan gulai, yakni daging sapi dan aneka jeroan. Namun, kuah empal gentong ini tidak sekental gulai. Nikmati empal gentong bersama dengan lontong atau nasi putih.</item>
+        <item>Baso tahu goreng? Hmm Mungkin Anda kurang familiar dengan nama tersebut. Bagaimana jika kita singkat menjadi BaTaGor? Nah, nama yang terakhir pasti sudah sangat akrab di telinga Anda. Bahkan, sudah banyak penjual batagor di berbagai daerah di Indonesia.
+
+Batagor adalah perpaduan antara baso goreng yang dibuat dari tepung tapioka dan ikan tenggiri, lalu dibungkus dengan kulit pangsit dan digoreng. Kemudian, baso goreng itu disajikan dengan potongan tahu goreng, kentang goreng, kol, dan telur goreng.
+
+    Terakhir, semua lauk ini akan disiram dengan bumbu kacang. Makanan yang banyak dijumpai di Bandung dan sekitarnya ini lebih enak jika dinikmati dengan sambal dan perasan jeruk limau.</item>
+        <item>Makanan dari Jawa Barat bukan hanya makanan berat saja, lho. Ada juga cemilan manis dari Jawa Barat yang sangat terkenal, yakni peuyeum. Ini merupakan singkong yang difermentasi sehingga sering juga dinamakan sebagai tape singkong.
+
+    Singkong yang digunakan akan dikukus lalu ditaburi dengan ragi untuk merangsang pertumbuhan jamur pada singkong. Peuyeum bisa Anda temukan dengan mudah ketika berjalan-jalan di Bandung dan daerah lain di Jawa Barat. Peuyeum bisa menjadi makanan pengganjal perut yang bikin nagih banget.</item>
+        <item>Makanan khas Jawa Barat yang satu ini memang benar-benar terkenal. Apalagi sampai saat ada begitu banyak pedagang cireng di luar Jawa Barat. Cireng sendiri sebenarnya adalah cemilan yang murah meriah. Bahan dasar untuk membuat cireng adalah tepung tapioka, tepung terigu, bawang putih, garam, dan merica bubuk.
+
+Jika dulu cireng hanya dimakan dengan sambal atau bumbu kacang, kini cireng sudah tersedia dalam berbagai rasa. Ada cireng rasa ayam, sapi, sosis, keju, BBQ, dan juga teriyaki. Wah, kreatif sekali ya!</item>
+        <item>Cirebon memang surganya makanan enak! Selain empal gentong dan sega jamblang, ada juga tahu gejrot yang merupakan makanan dari Jawa Barat yang terkenal di seluruh Indonesia. Makanan yang satu ini berbahan dasar tahu goreng.
+
+Yang membuat spesial adalah kuahnya yang terbuat dari bawang putih, bawang merah, cabe rawit, cabe merah, cabe hijau, gula merah, dan garam. Semua bumbu tersebut dihaluskan dan ditambahkan dengan air asam dan kecap manis. Tahu gejrot termasuk dalam kategori cemilan favorit bagi segala usia.</item>
+        <item>Asinan Bogor merupakan makanan yang berasal dari kota hujan alias Bogor. Di Bogor tentu mudah sekali menemukan makanan yang satu ini. Akan tetapi, di kota-kota lain yang ada di Indonesia juga banyak pedagang asinan khas Bogor
+
+Isi dari asinan ini bisa buah saja atau dicampur dengan sayur. Kuahnya yang memiliki rasa asam pedas ini benar-benar sangat segar. Asinan Bogor paling cocok bila disantap dengan krupuk mie kuning.</item>
+    </string-array>
+</resources>
